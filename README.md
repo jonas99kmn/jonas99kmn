@@ -9,9 +9,16 @@
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonasdevweb/)
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jonas55373318)
 
-![jonas99kmn GitHub stats](https://github-readme-stats.vercel.app/api?username=jonas99kmn&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas99kmn&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+<img width=40% align="left" src="https://github-readme-stats.vercel.app/api?username=jonas99kmn&show_icons=true&theme=radical" />
+
+
+<img width=40% align="left" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=jonas99kmn&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 ### TECNOLOGIAS QUE EU USO NO  MEU DIA !
 <div styler="display: inline__block"><br/>
